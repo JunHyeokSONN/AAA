@@ -1,5 +1,6 @@
 {
+    "sketch": "Arduino\\test.ino",
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "Arduino\\test.ino"
+    "programmer": "arduino:arduinoasispatmega32u4"
 }
